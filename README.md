@@ -18,5 +18,9 @@
 
 - Distilling the Knowledge in a Neural Network [[paper]](https://arxiv.org/pdf/1503.02531.pdf)
 - Deep Mutual Learning [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf)
+- On the Efficacy of Knowledge Distillation [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cho_On_the_Efficacy_of_Knowledge_Distillation_ICCV_2019_paper.pdf)
+- Self-training with Noisy Student improves ImageNet classification [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.pdf)
+- Training deep neural networks in generations: A more tolerant teacher educates better students [[paper]](https://www.cs.jhu.edu/~alanlab/Pubs19/yang2019training.pdf)
+- Distillation-Based Training for Multi-Exit Architectures [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.pdf)
 - PoPS: Policy Pruning and Shrinking for Deep Reinforcement Learning [[paper]](https://arxiv.org/pdf/2001.05012.pdf)
 
