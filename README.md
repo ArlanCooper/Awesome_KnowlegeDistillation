@@ -1,5 +1,5 @@
 # Awesome_KnowledgeDistillation
-这里收集了一些关于知识蒸馏的介绍和研究现状。
+这里收集了一些关于知识蒸馏  - Knowledge Distillation (KD) 的介绍和研究现状。
 
 欢迎 PR！如果对你有帮助，请三连支持👍！
 
