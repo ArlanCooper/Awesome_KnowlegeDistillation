@@ -26,6 +26,6 @@
 
 ### 相关仓库
 
-- [dkozlov/awesome-knowledge-distillation](dkozlov/awesome-knowledge-distillation)
-- [danielmcpark/awesome-knowledge-distillation](danielmcpark/awesome-knowledge-distillation)
-- [FLHonker/Awesome-Knowledge-Distillation](FLHonker/Awesome-Knowledge-Distillation)
+- [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- [danielmcpark/awesome-knowledge-distillation](https://github.com/danielmcpark/awesome-knowledge-distillation)
+- [FLHonker/Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
