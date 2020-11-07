@@ -24,3 +24,8 @@
 - Distillation-Based Training for Multi-Exit Architectures [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.pdf)
 - PoPS: Policy Pruning and Shrinking for Deep Reinforcement Learning [[paper]](https://arxiv.org/pdf/2001.05012.pdf)
 
+### 相关仓库
+
+- [dkozlov/awesome-knowledge-distillation](dkozlov/awesome-knowledge-distillation)
+- [danielmcpark/awesome-knowledge-distillation](danielmcpark/awesome-knowledge-distillation)
+- [FLHonker/Awesome-Knowledge-Distillation](FLHonker/Awesome-Knowledge-Distillation)
