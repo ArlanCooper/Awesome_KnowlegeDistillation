@@ -9,8 +9,8 @@
 
 ## KD 概述
 
-- [Knowledge Distillation（知识蒸馏）Review--20篇paper回顾](https://zhuanlan.zhihu.com/p/160206075)
-- [知识蒸馏 | 模型压缩利器_良心总结](https://zhuanlan.zhihu.com/p/138210881)
+- Knowledge Distillation（知识蒸馏）Review--20篇paper回顾 [[post]](https://zhuanlan.zhihu.com/p/160206075)
+- 知识蒸馏 | 模型压缩利器_良心总结 [[post]](https://zhuanlan.zhihu.com/p/138210881)
 - Knowledge Distillation: A Survey [[paper]](https://arxiv.org/pdf/2006.05525.pdf)
 - Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks [[paper]](https://arxiv.org/pdf/2004.05937.pdf)
 
