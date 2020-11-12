@@ -27,29 +27,55 @@
 
 ### Feature-Based
 
+- 
+
 ### Relation-Based
+
+- 
 
 ### Oneline Distillation
 
+- 
+
 ### Self-Distilllation
+
+- 
 
 ### Adversarial KD
 
+- 
+
 ### Multi-Teacher KD
+
+- 
 
 ### Cross-Modal KD
 
+- 
+
 ### Graph-Based KD
+
+- 
 
 ### Attention-Based KD
 
+- 
+
 ### Data-Free KD
+
+- 
 
 ### Quantized KD
 
+- 
+
 ### LifeLong KD
 
+- 
+
 ### NAS-based KD
+
+- 
 
 ## KD 应用
 
@@ -57,7 +83,7 @@
 
 ## 相关仓库
 
-- [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
-- [danielmcpark/awesome-knowledge-distillation](https://github.com/danielmcpark/awesome-knowledge-distillation)
-- [FLHonker/Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
-- [peterliht/knowledge-distillation-pytorch](https://github.com/peterliht/knowledge-distillation-pytorch)
+- dkozlov/awesome-knowledge-distillation [[awesome]](https://github.com/dkozlov/awesome-knowledge-distillation)
+- danielmcpark/awesome-knowledge-distillation [[awesome]](https://github.com/danielmcpark/awesome-knowledge-distillation)
+- FLHonker/Awesome-Knowledge-Distillation [[awesome]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
+- peterliht/knowledge-distillation-pytorch [[code]](https://github.com/peterliht/knowledge-distillation-pytorch)
