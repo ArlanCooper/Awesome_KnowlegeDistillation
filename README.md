@@ -33,7 +33,7 @@
 
 - 
 
-### Oneline Distillation
+### Online Distillation
 
 - 
 
@@ -44,6 +44,8 @@
 ### Adversarial KD
 
 - MEAL: Multi-Model Ensemble via Adversarial Learning [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/download/4417/4295)
+- Feature-map-level Online Adversarial Knowledge Distillation [[paper]](https://arxiv.org/pdf/2002.01775.pdf)
+- Data-Free Learning of Student Networks [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Data-Free_Learning_of_Student_Networks_ICCV_2019_paper.pdf)
 
 ### Multi-Teacher KD
 
