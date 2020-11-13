@@ -43,7 +43,7 @@
 
 ### Adversarial KD
 
-- 
+- MEAL: Multi-Model Ensemble via Adversarial Learning [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/download/4417/4295)
 
 ### Multi-Teacher KD
 
