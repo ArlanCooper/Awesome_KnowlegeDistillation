@@ -8,11 +8,8 @@
 ## DRL 基础
 
 - 大神总结 | 强化学习线路 [[post]](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA)
-
 - Policy Gradient Algorithms [[post]](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#ddpg)
-
 - Deterministic Policy Gradient Algorithms [[paper]](http://proceedings.mlr.press/v32/silver14.pdf)
-
 - Continuous Control with Deep Reinforcement Learning [[paper]](https://arxiv.org/pdf/1509.02971.pdf?source=post_page---------------------------)
 
 ## KD 概述
@@ -27,17 +24,11 @@
 ### Logits(Response)-Based 
 
 - Distilling the Knowledge in a Neural Network [[paper]](https://arxiv.org/pdf/1503.02531.pdf)
-
 - Deep Mutual Learning [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf)
-
 - On the Efficacy of Knowledge Distillation [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cho_On_the_Efficacy_of_Knowledge_Distillation_ICCV_2019_paper.pdf)
-
 - Self-training with Noisy Student improves ImageNet classification [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.pdf)
-
 - Training deep neural networks in generations: A more tolerant teacher educates better students [[paper]](https://www.cs.jhu.edu/~alanlab/Pubs19/yang2019training.pdf)
-
 - Distillation-Based Training for Multi-Exit Architectures [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.pdf)
-
 - Knowledge Extraction with No Observable Data [[paper]](https://papers.nips.cc/paper/2019/file/596f713f9a7376fe90a62abaaedecc2d-Paper.pdf) [[code]](https://github.com/snudatalab/KegNet)
 
 ### Feature-Based
