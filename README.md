@@ -1,7 +1,9 @@
 # Awesome_KnowledgeDistillation
 这里收集了一些关于知识蒸馏  - Knowledge Distillation (KD) 的介绍和研究现状。
 
-欢迎 PR！如果对你有帮助，请三连支持👍！
+如果你找到了相关领域 remarkable (开山之作、详尽survey、高引用量) 的 paper，可以在 issue 中留言。
+
+如果对你有帮助，请三连支持👍！
 
 ## DRL 基础
 
@@ -19,11 +21,18 @@
 ### Logits(Response)-Based 
 
 - Distilling the Knowledge in a Neural Network [[paper]](https://arxiv.org/pdf/1503.02531.pdf)
+
 - Deep Mutual Learning [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf)
+
 - On the Efficacy of Knowledge Distillation [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cho_On_the_Efficacy_of_Knowledge_Distillation_ICCV_2019_paper.pdf)
+
 - Self-training with Noisy Student improves ImageNet classification [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.pdf)
+
 - Training deep neural networks in generations: A more tolerant teacher educates better students [[paper]](https://www.cs.jhu.edu/~alanlab/Pubs19/yang2019training.pdf)
+
 - Distillation-Based Training for Multi-Exit Architectures [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.pdf)
+
+- Knowledge Extraction with No Observable Data [[paper]](https://papers.nips.cc/paper/2019/file/596f713f9a7376fe90a62abaaedecc2d-Paper.pdf) [[code]](https://github.com/snudatalab/KegNet)
 
 ### Feature-Based
 
@@ -81,7 +90,11 @@
 
 ## KD 应用
 
-- PoPS: Policy Pruning and Shrinking for Deep Reinforcement Learning [[paper]](https://arxiv.org/pdf/2001.05012.pdf)
+### In Reinforcement Learning
+
+- Policy Distillation [[paper]](https://arxiv.org/pdf/1511.06295.pdf)
+- Distilling Policy Distillation [[paper]](https://arxiv.org/pdf/1902.02186.pdf)
+- PoPS: Policy Pruning and Shrinking for Deep Reinforcement Learning [[paper]](https://arxiv.org/pdf/2001.05012.pdf) [[code]](https://github.com/dorlivne/PoPS)
 
 ## 相关仓库
 
