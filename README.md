@@ -7,7 +7,13 @@
 
 ## DRL 基础
 
-- [大神总结 | 强化学习线路图](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA)
+- 大神总结 | 强化学习线路 [[post]](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA)
+
+- Policy Gradient Algorithms [[post]](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#ddpg)
+
+- Deterministic Policy Gradient Algorithms [[paper]](http://proceedings.mlr.press/v32/silver14.pdf)
+
+- Continuous Control with Deep Reinforcement Learning [[paper]](https://arxiv.org/pdf/1509.02971.pdf?source=post_page---------------------------)
 
 ## KD 概述
 
