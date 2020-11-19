@@ -52,6 +52,7 @@
 - MEAL: Multi-Model Ensemble via Adversarial Learning [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/download/4417/4295)
 - Feature-map-level Online Adversarial Knowledge Distillation [[paper]](https://arxiv.org/pdf/2002.01775.pdf)
 - Data-Free Learning of Student Networks [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Data-Free_Learning_of_Student_Networks_ICCV_2019_paper.pdf)
+- KDGAN: Knowledge Distillation with Generative Adversarial Networks [[paper]](http://papers.neurips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks.pdf)
 
 ### Multi-Teacher KD
 
@@ -92,6 +93,7 @@
 - Policy Distillation [[paper]](https://arxiv.org/pdf/1511.06295.pdf)
 - Distilling Policy Distillation [[paper]](https://arxiv.org/pdf/1902.02186.pdf)
 - PoPS: Policy Pruning and Shrinking for Deep Reinforcement Learning [[paper]](https://arxiv.org/pdf/2001.05012.pdf) [[code]](https://github.com/dorlivne/PoPS)
+- Distillation Strategies for Proximal Policy Optimization [[paper]](https://arxiv.org/pdf/1901.08128.pdf)
 
 ## 相关仓库
 
