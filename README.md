@@ -49,7 +49,7 @@
 
 ### Adversarial KD
 
-- MEAL: Multi-Model Ensemble via Adversarial Learning [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/download/4417/4295)
+- MEAL: Multi-Model Ensemble via Adversarial Learning [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/download/4417/4295) [[code]](https://github.com/AaronHeee/MEAL)
 - Feature-map-level Online Adversarial Knowledge Distillation [[paper]](https://arxiv.org/pdf/2002.01775.pdf)
 - Data-Free Learning of Student Networks [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Data-Free_Learning_of_Student_Networks_ICCV_2019_paper.pdf)
 - KDGAN: Knowledge Distillation with Generative Adversarial Networks [[paper]](http://papers.neurips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks.pdf)
@@ -102,3 +102,4 @@
 - danielmcpark/awesome-knowledge-distillation [[awesome]](https://github.com/danielmcpark/awesome-knowledge-distillation)
 - FLHonker/Awesome-Knowledge-Distillation [[awesome]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 - peterliht/knowledge-distillation-pytorch [[code]](https://github.com/peterliht/knowledge-distillation-pytorch)
+- ikostrikov/pytorch-a2c-ppo-acktr-gail [[code]](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail)
