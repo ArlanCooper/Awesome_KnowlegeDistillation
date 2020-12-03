@@ -53,6 +53,7 @@
 - Feature-map-level Online Adversarial Knowledge Distillation [[paper]](https://arxiv.org/pdf/2002.01775.pdf)
 - Data-Free Learning of Student Networks [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Data-Free_Learning_of_Student_Networks_ICCV_2019_paper.pdf)
 - KDGAN: Knowledge Distillation with Generative Adversarial Networks [[paper]](http://papers.neurips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks.pdf)
+- Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.00513.pdf)
 
 ### Multi-Teacher KD
 
